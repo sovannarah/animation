@@ -1,0 +1,13 @@
+@import './base/reset';
+
+
+@import 'utils/_placeholders';
+@import 'shared/_page.scss';
+
+
+@import './base/base';
+@import './base/fonts';
+
+
+@import "pages/home";
+@import "pages/about";
